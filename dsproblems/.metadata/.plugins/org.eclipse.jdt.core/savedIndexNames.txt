@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\I353174\Desktop\project_I\dsproblems\.metadata\.plugins\org.eclipse.jdt.core
+782190360.index
+1865797976.index
+2426335674.index
