@@ -1,0 +1,39 @@
+RPM Team - Fullstack Developer
+2020 - Present, Bengaluru
+
+Working as a Fullstack developer on a cloud-based multi-tenant
+application based on Java, JavaScript, UI5, Spring Boot, SAP Cloud
+Platform, and CAP.
+UI COE for the entire LOB to handle problems related to
+JavaScript, UI5, and Fiori Elements.
+
+Bill of Material, Just-In-Time - UI Developer
+SAP Labs India
+09/2019 - 03/2020, Bengaluru
+
+Responsible for carrying out the development of various features
+and incidents using UI5, OData, ABAP, and JavaScript.
+Developed UI apps using fiori elements, UI5, JavaScript, and OData
+Service
+
+SuccessFactors Learning - Fullstack Developer
+SAP Labs India
+02/2019 - 09/2019, Bengaluru
+
+Developed a course recommendation system using Python, NLP,
+and machine learning, which recommends courses based on user
+data for a Learning Management System(LMS).
+Created a POC for the product using UI5, Javascript and OData
+Service
+
+Customer Success Team - Fullstack Developer
+SAP Labs India
+08/2018 - 02/2019, Bengaluru
+
+Created a dashboard for the facility team using Java, Spring Boot,
+and UI5 where they can visualize different trends from excel data
+of various cab services.
+Worked on various internal tools which are used by pre-sales team.
+
+
+Java,Javascript,Spring Boot,Sap Cloud Platform,Python,Nlp,Machine Learning, SQL, System Design, Data Structures
