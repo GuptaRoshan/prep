@@ -1,0 +1,69 @@
+Roshan Gupta
+Software Developer
+
+8884096580
+
+I have been a software developer for over 4 years with a passion for developing clean code with agile principles. I am well-versed in technology and writing code to create systems that are reliable and efficient. I am keen on learning and exploring different technologies.
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  ★★★★★ JavaScript
+  ★★★★★ Java
+  ★★★★★ Spring Boot
+  ★★★★☆ Data Structures
+  ★★★★★ SQL and MySQL
+  ★★★★★ SAPUI5
+  ★★★★★ System Design
+  ★★★★☆  Object-Oriented Programming (OOP)
+  ★★★★☆ Cloud Application Development
+
+WORK EXPERIENCE
+  * 2020 – Present
+    Fullstack Developer at SAP Labs India, Bengaluru
+      
+  Working as a Fullstack developer on the Returnables Packaging Management product, a cloud-based multi-tenant application based on Java, JavaScript, UI5, Spring Boot, SAP Cloud Platform, and CAP.
+
+
+
+  UI Lead for the entire LOB to handle problems related to JavaScript, UI5, and Fiori Elements.
+
+
+
+  * 2018 – 2020
+    Student Trainee at SAP Labs India, Bengaluru
+      
+  Responsible for carrying out the development of various features and POC for products like SuccessFactors Learning, Bill of Material, and Just-In-Time using UI5, OData, ABAP, and JavaScript.
+
+
+
+  Created a dashboard for the facility team using Java, Spring Boot, and UI5 where they can visualize different trends from excel data of various cab services.
+
+
+
+  Developed a course recommendation system using Python, NLP, and machine learning, which recommends courses based on user data for a Learning Management System(LMS).
+
+
+
+
+EDUCATION
+  * 2018 – 2022
+    BITS Pilani, Pilani M.Tech
+
+    Grade : 7.2 CGPA
+Completed my M.Tech in software engineering. sponsored by SAP Labs.
+  * 2015 – 2018
+    CMR Institute Of Technology, Bengaluru BCA
+
+    Grade : 8.2 CGPA 
+Completed my BCA in Computer Science and Applications.
+
+PROJECT
+  * Generate sales leads from email conversation using AI/ML, , January 2022 – June 2022
+
+    Developed an intelligent machine learning model using Python, NLP, Scikit Learn, and Flask that can predict the type of sales leads from email 
+conversations and created a working UI dashboard for analytics and lead management.
